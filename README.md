@@ -62,6 +62,14 @@ Streamlit-based customer churn prediction application.
 
 ![Model Comparison](screenshots/model_comparison.png)
 
+### High-Risk Customer Input
+
+![High Risk Input](screenshots/high_risk_input.png)
+
+### High-Risk Prediction Result
+
+![High Risk Prediction](screenshots/high_risk_prediction.png)
+
 ## Final Conclusion
 
 Two machine learning models were developed and evaluated for customer churn prediction using the Telco Customer Churn Dataset.
