@@ -83,3 +83,7 @@ The system successfully predicts customer retention risk, provides churn probabi
 ## Project Status
 
 The customer churn prediction system has been successfully developed, evaluated. The application is ready for real-time customer churn analysis and retention decision support.
+
+## Author
+
+**S NEETHU KRISHNAN** 
