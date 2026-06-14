@@ -86,4 +86,4 @@ The customer churn prediction system has been successfully developed, evaluated.
 
 ## Author
 
-**S NEETHU KRISHNAN** 
+S NEETHU KRISHNAN 
